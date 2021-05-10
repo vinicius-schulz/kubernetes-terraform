@@ -10,15 +10,15 @@ Subir dois pods, nginx e mysql, mapeando a porta 80 do nginx para acesso externo
 
 ### Instalar Kubernetes - Windows, Mac ou Linux
 
-####Instalação no Windows
+#### Instalação no Windows
 
 [Windows](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
 
-####Instalação no Linux
+#### Instalação no Linux
 
 [Linux](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 
-####Instalação no macOS
+#### Instalação no macOS
 
 [macOS](https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/)
 
