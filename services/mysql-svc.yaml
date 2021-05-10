@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-svc
+spec:
+  selector:
+    type: database
+  ports:
+  - name: mysql
+    port: 3306
+  type: ClusterIP #expoe os pods somente dentro do cluster
